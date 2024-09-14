@@ -1,0 +1,53 @@
+season,team1,team2,date,match_number,venue,city,toss_winner,toss_decision,player_of_match,umpire1,umpire2,reserve_umpire,match_referee,winner,winner_runs,winner_wickets,match_type
+2024,Canada,United States of America,2024/06/01,1,Grand Prairie Stadium,Dallas,United States of America,field,Aaron Jones,RK Illingworth,Sharfuddoula,L Rusere,RB Richardson,United States of America,,7,Group
+2024,Papua New Guinea,West Indies,2024/06/02,2,Providence Stadium,Providence,West Indies,field,RL Chase,AT Holdstock,Rashid Riaz,HDPK Dharmasena,AJ Pycroft,West Indies,,5,Group
+2024,Oman,Namibia,2024/06/02,3,Kensington Oval,Bridgetown,Namibia,field,D Wiese,J Madanagopal,JS Wilson,Asif Yaqoob,RS Madugalle,,,,Group
+2024,Sri Lanka,South Africa,2024/06/03,4,Nassau County International Cricket Stadium,New York,Sri Lanka,bat,A Nortje,CM Brown,RA Kettleborough,AG Wharf,JJ Crowe,South Africa,,6,Group
+2024,Afghanistan,Uganda,2024/06/03,5,Providence Stadium,Providence,Uganda,field,Fazalhaq Farooqi,Ahsan Raza,HDPK Dharmasena,Rashid Riaz,AJ Pycroft,Afghanistan,125,,Group
+2024,Scotland,England,2024/06/04,6,Kensington Oval,Bridgetown,Scotland,bat,,Asif Yaqoob,Nitin Menon,J Madanagopal,RS Madugalle,No Result,,,Group
+2024,Nepal,Netherlands,2024/06/04,7,Grand Prairie Stadium,Dallas,Netherlands,field,TJG Pringle,L Rusere,RJ Tucker,RK Illingworth,RB Richardson,Netherlands,,6,Group
+2024,Ireland,India,2024/06/05,8,Nassau County International Cricket Stadium,New York,India,field,JJ Bumrah,AG Wharf,CB Gaffaney,CM Brown,DC Boon,India,,8,Group
+2024,Papua New Guinea,Uganda,2024/06/05,9,Providence Stadium,Providence,Uganda,field,Riazat Ali Shah,AT Holdstock,Rashid Riaz,HDPK Dharmasena,J Srinath,Uganda,,3,Group
+2024,Australia,Oman,2024/06/05,10,Kensington Oval,Bridgetown,Oman,field,MP Stoinis,Asif Yaqoob,JS Wilson,Nitin Menon,RS Madugalle,Australia,39,,Group
+2024,Pakistan,United States of America,2024/06/06,11,Grand Prairie Stadium,Dallas,United States of America,field,MD Patel,A Paleker,MA Gough,RJ Tucker,JJ Crowe,,,,Group
+2024,Namibia,Scotland,2024/06/06,12,Kensington Oval,Bridgetown,Namibia,bat,MA Leask,J Madanagopal,Nitin Menon,JS Wilson,AJ Pycroft,Scotland,,5,Group
+2024,Canada,Ireland,2024/06/07,13,Nassau County International Cricket Stadium,New York,Ireland,field,NR Kirton,RA Kettleborough,SJ Nogajski,CB Gaffaney,RB Richardson,Canada,12,,Group
+2024,Afghanistan,New Zealand,2024/06/07,14,Providence Stadium,Providence,New Zealand,field,Rahmanullah Gurbaz,Ahsan Raza,HDPK Dharmasena,AT Holdstock,J Srinath,Afghanistan,84,,Group
+2024,Sri Lanka,Bangladesh,2024/06/07,15,Grand Prairie Stadium,Dallas,Bangladesh,field,Rishad Hossain,MA Gough,PR Reiffel,RJ Tucker,JJ Crowe,Bangladesh,,2,Group
+2024,Netherlands,South Africa,2024/06/08,16,Nassau County International Cricket Stadium,New York,South Africa,field,DA Miller,CB Gaffaney,Sharfuddoula,SJ Nogajski,DC Boon,South Africa,,4,Group
+2024,Australia,England,2024/06/08,17,Kensington Oval,Bridgetown,England,field,A Zampa,JS Wilson,Nitin Menon,J Madanagopal,AJ Pycroft,Australia,36,,Group
+2024,West Indies,Uganda,2024/06/08,18,Providence Stadium,Providence,West Indies,bat,AJ Hosein,HDPK Dharmasena,Rashid Riaz,Ahsan Raza,J Srinath,West Indies,134,,Group
+2024,India,Pakistan,2024/06/09,19,Nassau County International Cricket Stadium,New York,Pakistan,field,JJ Bumrah,RK Illingworth,RJ Tucker,Sharfuddoula,DC Boon,India,6,,Group
+2024,Oman,Scotland,2024/06/09,20,Sir Vivian Richards Stadium,North Sound,Oman,bat,BJ McMullen,A Paleker,CM Brown,AG Wharf,RB Richardson,Scotland,,7,Group
+2024,South Africa,Bangladesh,2024/06/10,21,Nassau County International Cricket Stadium,New York,South Africa,bat,H Klaasen,RK Illingworth,SJ Nogajski,PR Reiffel,RS Madugalle,South Africa,4,,Group
+2024,Canada,Pakistan,2024/06/11,22,Nassau County International Cricket Stadium,New York,Pakistan,field,Mohammad Amir,AT Holdstock,HDPK Dharmasena,PR Reiffel,RS Madugalle,Pakistan,,7,Group
+2024,Namibia,Australia,2024/06/11,24,Sir Vivian Richards Stadium,North Sound,Australia,field,A Zampa,Nitin Menon,Rashid Riaz,A Paleker,J Srinath,Australia,,9,Group
+2024,United States of America,India,2024/06/12,25,Nassau County International Cricket Stadium,New York,India,field,Arshdeep Singh,PR Reiffel,SJ Nogajski,AT Holdstock,RS Madugalle,India,,7,Group
+2024,West Indies,New Zealand,2024/06/12,26,Brian Lara Stadium,Tarouba,New Zealand,field,SE Rutherford,Ahsan Raza,AG Wharf,MA Gough,DC Boon,West Indies,13,,Group
+2024,Bangladesh,Netherlands,2024/06/13,27,Arnos Vale Ground,Kingstown,Netherlands,field,Shakib Al Hasan,CM Brown,J Madanagopal,JS Wilson,RB Richardson,Bangladesh,25,,Group
+2024,Oman,England,2024/06/13,28,Sir Vivian Richards Stadium,North Sound,England,field,AU Rashid,Asif Yaqoob,L Rusere,Rashid Riaz,AJ Pycroft,England,,8,Group
+2024,Papua New Guinea,Afghanistan,2024/06/13,29,Brian Lara Stadium,Tarouba,Afghanistan,field,Fazalhaq Farooqi,AG Wharf,MA Gough,Ahsan Raza,DC Boon,Afghanistan,,7,Group
+2024,South Africa,Nepal,2024/06/14,31,Arnos Vale Ground,Kingstown,Nepal,field,T Shamsi,J Madanagopal,JS Wilson,SJ Nogajski,RB Richardson,South Africa,1,,Group
+2024,Uganda,New Zealand,2024/06/14,32,Brian Lara Stadium,Tarouba,New Zealand,field,TG Southee,PR Reiffel,RK Illingworth,Ahsan Raza,DC Boon,New Zealand,,9,Group
+2024,England,Namibia,2024/06/15,34,Sir Vivian Richards Stadium,North Sound,Namibia,field,HC Brook,AT Holdstock,L Rusere,Nitin Menon,RS Madugalle,England,41,,Group
+2024,Scotland,Australia,2024/06/15,35,Daren Sammy National Cricket Stadium,Gros Islet,Australia,field,MP Stoinis,Asif Yaqoob,MA Gough,A Paleker,JJ Crowe,Australia,,5,Group
+2024,Ireland,Pakistan,2024/06/16,36,Central Broward Regional Park Stadium Turf Ground,Lauderhill,Pakistan,field,Shaheen Shah Afridi,CB Gaffaney,RJ Tucker,RA Kettleborough,J Srinath,Pakistan,,3,Group
+2024,Bangladesh,Nepal,2024/06/16,37,Arnos Vale Ground,Kingstown,Nepal,field,Tanzim Hasan Sakib,Ahsan Raza,SJ Nogajski,HDPK Dharmasena,RB Richardson,Bangladesh,21,,Group
+2024,Sri Lanka,Netherlands,2024/06/16,38,Daren Sammy National Cricket Stadium,Gros Islet,Netherlands,field,KIC Asalanka,AG Wharf,A Paleker,Asif Yaqoob,JJ Crowe,Sri Lanka,83,,Group
+2024,Papua New Guinea,New Zealand,2024/06/17,39,Brian Lara Stadium,Tarouba,New Zealand,field,LH Ferguson,L Rusere,PR Reiffel,RK Illingworth,DC Boon,New Zealand,,7,Group
+2024,West Indies,Afghanistan,2024/06/17,40,Daren Sammy National Cricket Stadium,Gros Islet,Afghanistan,field,N Pooran,A Paleker,CM Brown,MA Gough,JJ Crowe,West Indies,104,,Group
+2024,South Africa,United States of America,2024/06/19,41,Sir Vivian Richards Stadium,North Sound,United States of America,field,Q de Kock,CB Gaffaney,RA Kettleborough,L Rusere,RS Madugalle,South Africa,18,,Group
+2024,West Indies,England,2024/06/19,42,Daren Sammy National Cricket Stadium,Gros Islet,England,field,PD Salt,Ahsan Raza,Nitin Menon,CM Brown,JJ Crowe,England,,8,Group
+2024,India,Afghanistan,2024/06/20,43,Kensington Oval,Bridgetown,India,bat,SA Yadav,PR Reiffel,RJ Tucker,AG Wharf,DC Boon,India,47,,Group
+2024,Bangladesh,Australia,2024/06/20,44,Sir Vivian Richards Stadium,North Sound,Australia,field,PJ Cummins,MA Gough,RK Illingworth,AT Holdstock,RB Richardson,Australia,28,,Group
+2024,South Africa,England,2024/06/21,45,Daren Sammy National Cricket Stadium,Gros Islet,England,field,Q de Kock,CM Brown,Sharfuddoula,CB Gaffaney,JJ Crowe,South Africa,7,,Group
+2024,United States of America,West Indies,2024/06/21,46,Kensington Oval,Bridgetown,West Indies,field,RL Chase,A Paleker,PR Reiffel,AG Wharf,DC Boon,West Indies,,9,Group
+2024,India,Bangladesh,2024/06/22,47,Sir Vivian Richards Stadium,North Sound,Bangladesh,field,HH Pandya,AT Holdstock,MA Gough,RA Kettleborough,RS Madugalle,India,50,,Group
+2024,Afghanistan,Australia,2024/06/22,48,Arnos Vale Ground,Kingstown,Australia,field,Gulbadin Naib,Ahsan Raza,HDPK Dharmasena,Nitin Menon,JJ Crowe,Afghanistan,21,,Group
+2024,United States of America,England,2024/06/23,49,Kensington Oval,Bridgetown,England,field,AU Rashid,CB Gaffaney,JS Wilson,A Paleker,DC Boon,England,,10,Group
+2024,West Indies,South Africa,2024/06/23,50,Sir Vivian Richards Stadium,North Sound,South Africa,field,T Shamsi,AG Wharf,RJ Tucker,Sharfuddoula,RS Madugalle,South Africa,,3,Group
+2024,India,Australia,2024/06/24,51,Daren Sammy National Cricket Stadium,Gros Islet,Australia,field,RG Sharma,RK Illingworth,RA Kettleborough,HDPK Dharmasena,JJ Crowe,India,24,,Group
+2024,Afghanistan,Bangladesh,2024/06/24,52,Arnos Vale Ground,Kingstown,Afghanistan,bat,Naveen-ul-Haq,L Rusere,Nitin Menon,Ahsan Raza,RB Richardson,Afghanistan,8,,Group
+2024,Afghanistan,South Africa,2024/06/26,53,Brian Lara Stadium,Tarouba,Afghanistan,bat,M Jansen,Nitin Menon,RK Illingworth,Ahsan Raza,RB Richardson,South Africa,,9,Semi Final
+2024,India,England,2024/06/27,54,Providence Stadium,Providence,England,field,AR Patel,CB Gaffaney,RJ Tucker,PR Reiffel,JJ Crowe,India,68,,Semi Final
+2024,India,South Africa,2024/06/29,55,Kensington Oval,Bridgetown,India,bat,V Kohli,CB Gaffaney,RK Illingworth,RJ Tucker,RB Richardson,India,7,,Final
