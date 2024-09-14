@@ -54,6 +54,25 @@ select match_number, team1, team2, toss_winner, toss_decision
 from wt20.matches
 where toss_decision = "bat";
 
+-- List All Matches Umpired by a Specific Umpire (e.g., Asif Yaqoob)
+-- Retrieve all the matches that were umpired by Asif Yaqoob.
+select match_number, team1, team2, umpire1, umpire2
+from wt20.matches
+where umpire1 = "Asif Yaqoob" or umpire2 = "Asif Yaqoob";
+
+-- Find Matches That Ended in No Result
+-- Retrieve all matches that ended in "No Result."
+select match_number, team1, team2, date 
+from wt20.matches
+where winner is not null;
+
+-- Find Semi-Final Matches
+-- Retrieve all the semi-final matches from the table.
+select match_number, team1, team2, date, winner
+from wt20.matches
+where match_type = 'semi Final';
+
+
 
 select * from wt20.matches;
 
