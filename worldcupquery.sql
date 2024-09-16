@@ -76,3 +76,4 @@ where match_type = 'semi Final';
 
 select * from wt20.matches;
 
+
